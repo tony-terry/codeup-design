@@ -1,0 +1,110 @@
+body {
+    margin: auto;
+    font-family: 'Anton', sans-serif;
+    text-align: center;
+    background-color: #F0F0F0;
+}
+
+h1 {
+    font-size: 64px;
+    margin-bottom: 50px;
+}
+
+h2 {
+    font-size: 48px;
+}
+
+h4 {
+    font-size: 32px;
+}
+
+h5 {
+    font-size: 28px;
+    font-weight: normal;
+    margin-bottom: 50px;
+}
+
+h6 {
+    /*text-align: left;*/
+}
+.apple-ipad {
+    display: block;
+    margin: auto;
+    width: 80%;
+    padding: 10px;
+    background: lightgrey;
+    margin-bottom: 25px;
+}
+
+.logo {
+    display: block;
+    margin: auto;
+    width: 105px;
+    height: 105px;
+}
+
+.container {
+    display: block;
+    margin: auto;
+    width: 100%;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.design {
+    float: left;
+    width: 190px;
+    height: 190px;
+    /*background-color: e6563b;*/
+}
+
+.develop {
+    float: left;
+    width: 190px;
+    height: 190px;
+    /*background-color: e6563b;*/
+}
+
+.support {
+    clear: both;
+    float: left;
+    width: 190px;
+    height: 190px;
+    /*background-color: 7cbo6c;*/
+}
+
+.host {
+    width: 190px;
+    height: 190px;
+    float: left;
+    /*background-color: 00aba9;*/
+}
+
+.featured_project {
+    text-align: left;
+}
+
+.des {
+    background-color: e6563b;
+    width: 18px;
+    height: 18px:
+}
+
+.dev {
+    background-color: e6563a;
+    width: 18px;
+    height: 18px:
+}
+
+.sup {
+    background-color: 7cbo6c;
+    width: 18px;
+    height: 18px:
+}
+
+.hos {
+    background-color: 00aba9;
+    width: 18px;
+    height: 18px:
+}
+
